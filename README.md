@@ -1,4 +1,4 @@
-## Clone do Discord
+## Discord Clone
 
 This project is about the Discord interface clone, presented by **[Rocketseat](https://github.com/Rocketseat)**.
 
